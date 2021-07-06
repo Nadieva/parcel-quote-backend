@@ -23,7 +23,10 @@ Please follow the instructions in your terminal to use the application :
 - `npm start`
 
 - You can access the api :
-  - locally: - http://localhost:5000/api/prices - http://localhost:5000/api/parcels - http://localhost:5000/api/prices
+  - locally: 
+    - http://localhost:5000/api/prices 
+    - http://localhost:5000/api/parcels 
+    - http://localhost:5000/api/prices
     or
   - remotely:
     - https://parcel-quote.herokuapp.com/api/prices
