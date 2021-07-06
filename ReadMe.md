@@ -1,6 +1,6 @@
 # parcel-quote-backend
 
-User calculates the final price for the delivery of parcels with different weights. To do so, weights must be entered and routes selected in the form.
+User calculates the final price for the delivery of parcels with different weights. To do so, weights must be entered and routes selected in the form. The web application is [here](https://parcel-quote.netlify.app/).
 
 The project is made of two parts:
 
@@ -35,11 +35,11 @@ Please follow the instructions in your terminal to use the application :
 
 ## Installation
 
-- react: version 17.0.2
-- react-dom: version 17.0.2
-- react-router-dom: version 5.2.0
+- react: 17.0.2
+- react-dom: 17.0.2
+- react-router-dom: 5.2.0
 - concurrently: 6.2.0
-- cors
+- cors: 2.8.5
 - express : 4.17.1
 - mongoose : 5.13.2
 - nodemon 2.0.9
