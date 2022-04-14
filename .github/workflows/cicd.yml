@@ -1,0 +1,12 @@
+name: Workflows with secret MongoDB URL
+
+on: push
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get secret url
+        env:
+          MONGODB_URL: ${{ secrets.MONGODB_URL }}
