@@ -1,6 +1,6 @@
 # parcel-quote-backend
 
-User calculates the final price for the delivery of parcels with different weights. To do so, weights must be entered and routes selected in the form. The web application is [here](https://parcel-quote.netlify.app/).[THE WEBSITE IS NOT WORKING]
+User calculates the final price for the delivery of parcels with different weights. To do so, weights must be entered and routes selected in the form. The web application is [here](https://parcel-quote.netlify.app/).
 
 The project is made of two parts:
 
@@ -23,11 +23,11 @@ Please follow the instructions in your terminal to use the application :
 - `npm start`
 
 - You can access the api :
-  - locally: 
-    - http://localhost:5000/api/prices 
-    - http://localhost:5000/api/parcels 
+  - locally:
     - http://localhost:5000/api/prices
-    or
+    - http://localhost:5000/api/parcels
+    - http://localhost:5000/api/prices
+      or
   - remotely:
     - https://parcel-quote.herokuapp.com/api/prices
     - https://parcel-quote.herokuapp.com/api/parcels
