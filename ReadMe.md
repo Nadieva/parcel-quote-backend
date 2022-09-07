@@ -4,8 +4,8 @@ User calculates the final price for the delivery of parcels with different weigh
 
 The project is made of two parts:
 
-- [frontend](https://github.com/Nadieva/parcel-quote-frontend)
-- [backend](https://github.com/Nadieva/parcel-quote-backend)
+- [frontend](https://github.com/nadia-mm/parcel-quote-frontend)
+- [backend](https://github.com/nadia-mm/parcel-quote-backend)
 
 The backend part is connected to a Mongo database. It contains three collections:
 
